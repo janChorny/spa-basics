@@ -1,1 +1,1 @@
-# online-store
+# spa-basics
